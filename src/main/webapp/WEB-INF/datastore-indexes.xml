@@ -1,0 +1,6 @@
+<datastore-indexes autoGenerate="true">
+    <datastore-index kind="Chanthrd" ancestor="false" source="manual">
+        <property name="chan" direction="asc"/>
+        <property name="age" direction="desc"/>
+    </datastore-index>
+</datastore-indexes>

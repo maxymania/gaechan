@@ -44,11 +44,11 @@
         </dependency>
         
         <!--  ######################## -->
-        <dependency>
+        <!--<dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcprov-jdk14</artifactId>
             <version>1.57</version>
-        </dependency>
+        </dependency>-->
         
         <!--  ######################## -->
         <dependency>
